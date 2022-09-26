@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">I'm a Developer and Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varchar42&label=Profile%20views&color=0e75b6&style=flat" alt="varchar42" /> </p>
 
